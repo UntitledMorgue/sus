@@ -1,0 +1,40 @@
+html, body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:rgb(41, 39, 39);
+}
+
+#trademark {
+    color:rgb(197, 13, 136);
+    text-shadow: 2px 2px 5px black;
+}
+
+#heyNavM {
+    text-shadow: 2px 2px 5px black;
+    color:red;
+}
+
+.heyNav {
+    position:relative;
+    bottom:13px;
+}
+
+.impostorsussy {
+    color:white;
+    text-shadow: 2px 2px 5px black;
+    text-align:center;
+}
+
+#sussyy {
+    color:red;
+}
+
+.susp {
+    height:450px;
+    border-color:rgb(49, 47, 47);
+    border-style:solid;
+    border-width:3px;
+}
+
+.crewmate {
+    height:454px;
+}
